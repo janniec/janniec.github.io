@@ -9,7 +9,7 @@ name: Jannie
 description: Data Scientist from Metis
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/14295345_1149305191819291_8211619737830948864_n.jpg
+avatar: http://scontent-sea1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14573987_969022146535271_8059872066452586496_n.jpg?ig_cache_key=MTM2NzE2NjYwNDAxNDM1MzkzMQ%3D%3D.2
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: janniec
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
