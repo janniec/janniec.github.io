@@ -9,7 +9,7 @@ I have always had an affinity for storytelling, communication, and computers. As
 
 Data science is the next logical step.  Earlier this week, I enrolled with the Spring 2017 cohort of [Metis Data Science Bootcamp](www.thisismetis.com/Chicago/Bootcamps) of Chicago.  
 
-![_config.yml]({{ site.baseurl }}/images/20170218_cropped.jpg)
+![_config.yml]({{ site.baseurl }}/images/20170218_rotated.jpg)
 
 Wish me luck! If all goes well with metis, in 3 months my blog post will say...  
 # "...and walks out a data scientist."
